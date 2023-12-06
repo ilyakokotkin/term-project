@@ -1,7 +1,7 @@
 
 # Investment Portfolio Management Program
 
-This Python program is designed to manage an investment portfolio, demonstrating various features of Python including classes, file handling, and data structures.
+This Python program is my term project for MET CS 521 course. It is designed to manage an investment portfolio, demonstrating various features of Python including classes, file handling, and data structures.
 
 ## Features
 
